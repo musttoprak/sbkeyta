@@ -93,7 +93,7 @@
       }
     }
   
-    setTimeout(() => goTo('scene-valentine'), 12500);
+    setTimeout(() => goTo('scene-valentine'), 125000);
   
     const valentineMessages = [
       'Emin misin?', 'Cidden mi??', 'Pozitif misin?', 'Lütfen...', 'Bir düşün!',
